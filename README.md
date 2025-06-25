@@ -3,20 +3,28 @@ Retail Sales Analysis Project
 This project analyzes retail sales data using Excel, SQL and Power BI.
 
 Tools Used:-
-1. Excel: Data cleaning.
-         - Order date into Short date.
-         - Checked if duplicates.
 
-2. SQL: Querying insights like sales by product, customer type, etc.
-         - Converted excel file into .csv 
-         - Queried total sales by product to identify.
-         - Analyzed region-wise sales to determine.
+Excel:
+   
+1. Data cleaning.
+2. Order date into Short date.
+3. Checked if duplicates.
+
+SQL:
+   
+1. Querying insights like sales by product, customer type, etc.
+2. Converted excel file into .csv.
+3. Queried total sales by product to identify.
+4. Analyzed region-wise sales to determine.
  
-3. Power BI: Visualization and KPI dashboard.
-         - Bar chart to show Sales by Product.
-         - Pie Chart to show Sales by Region.
-         - Donut Chart to show Profit by Customer type.
-         - Column chart to show Sum of Sales by Region and Category.
+  
+  Power BI:
+  
+  1. Visualization and KPI dashboard.
+  2. Bar chart to show Sales by Product.
+  3. Pie Chart to show Sales by Region.
+  4. Donut Chart to show Profit by Customer type.
+  5. Column chart to show Sum of Sales by Region and Category.
 
 
 Insights :-

@@ -25,3 +25,4 @@ Insights :-
 2. Technology category significantly outperforms Furniture.
 3. New customers generate higher profit share.
 4. Laptop is the most profitable and highest-selling product.
+
